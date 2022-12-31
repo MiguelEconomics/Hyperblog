@@ -1,5 +1,6 @@
 This is the story of Miguel the Data Scientist.
 
-He is 25 years old and was born in Colombia.
+He is 25 years old and was born in Colombia,
+living in Soacha.
 
 Today we will discover his story.
